@@ -1,6 +1,6 @@
-import SectionHeader from '../components/SectionHeader.js';
+import SectionHeader from '../atoms/Header.js';
 
-function Layout(props) {
+function SectionTemplate(props) {
   const letters = props.letters;
   return (
     <div>
@@ -10,4 +10,4 @@ function Layout(props) {
   );
 }
 
-export default Layout;
+export default SectionTemplate;

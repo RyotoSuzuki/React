@@ -1,0 +1,17 @@
+{
+  "java": {
+    "language": "Java",
+    "pictureSrc": "Java_logo.jpg",
+    "alt": "Java_logo"
+  },
+  "javaScript": {
+    "language": "JavaScript",
+    "pictureSrc": "JavaScript_logo.jpg",
+    "alt": "JavaScript_logo"
+  },
+  "python": {
+    "language": "Python",
+    "pictureSrc": "Python_logo.jpg",
+    "alt": "Python_logo"
+  }
+}
